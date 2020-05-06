@@ -6,6 +6,7 @@ import React, {
   useImperativeHandle,
   forwardRef,
 } from 'react';
+
 import { TextInputProperties } from 'react-native';
 
 import { useField } from '@unform/core';
