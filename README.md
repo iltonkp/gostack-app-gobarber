@@ -57,8 +57,16 @@ yarn android
 yarn ios
 ```
 
-# ⌨️ Telas da Aplicação
+# ⌨️ Telas do App
 
 - Login
 
-<img alt="Login" src="https://res.cloudinary.com/dpeywfgot/image/upload/v1591699515/Gobarber-web/gif_Login_j8mcqj.gif">
+<img alt="Login" src="https://res.cloudinary.com/dpeywfgot/image/upload/v1592407441/app_gobarber/Login_kytr1x.gif">
+
+- Cadastro
+
+<img alt="Cadastro" src="https://res.cloudinary.com/dpeywfgot/image/upload/v1592407441/app_gobarber/Cadastro_m7zfkh.gif">
+
+- Cadastro
+
+<img alt="Home" src="https://res.cloudinary.com/dpeywfgot/image/upload/v1592407441/app_gobarber/home_zmr7r8.gif">
